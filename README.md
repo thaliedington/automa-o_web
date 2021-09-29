@@ -18,5 +18,5 @@
 ##### ChromeDriver
 
 ## Assista o Robot agindo
-#####<img src="automacaoWebRobot.gif" alt=""  width="250" />
+<img src="automacaoWebRobot.gif" alt=""  width=auto />
 
