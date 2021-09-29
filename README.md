@@ -3,8 +3,7 @@
 
 ##### Automação Web de uma URL preenchendo os campos. Um dos campos obrigatórios não possui dados e por isso não é possível submeter o formulário. Assim, o teste retorna o erro:
 
-##### Cenário 1: Cadastro                                                   | FAIL |
-##### The element '//select[@id="countries"]' should not be visible, but it is.
+##### Cenário 1: Cadastro | FAIL | - The element '//select[@id="countries"]' should not be visible, but it is, ou seja, o erro ocorre porque o elemento ainda está visível na tela após clicar no botão Submit.
 
 ## Script criado com Robot Framework com a biblioteca:
 
