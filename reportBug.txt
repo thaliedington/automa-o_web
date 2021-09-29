@@ -1,0 +1,13 @@
+Título: Campo obrigatório vazio impede a submissão do formulário
+
+Descrição:
+1- Acesse o site http://demo.automationtesting.in/Register.html
+2- Preenche os campos obrigatórios (contêm um asterisco)
+3- Clique no botão Submit
+
+Atual:
+Não há dados no campo obrigatório Country e, ao tentar submeter, aparece o aviso "Selecione um item da lista".
+
+Esperado
+Enviar os dados ao clicar no botão Submit.
+

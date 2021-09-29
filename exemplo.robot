@@ -25,7 +25,7 @@ ${input_foto}   //input[@id="imagesrc"]
 ${botao_salvar}     //button[@id="submitbtn"]
 ${botao_limpar}     //button[@id="Button1"]
 
-${FILE}     D:\\Thalina\\Documents\\Estudos\\Robot\\foto.txt 
+${FILE}     D:\\Thalina\\Documents\\Estudos\\Robot\\eye.png
 
 *** Keywords ***
 Dado que eu acesse o Automation Demo Site
